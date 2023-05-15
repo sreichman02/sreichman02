@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sreichman02](https://github.com/sreichman02)
 
-- 📝 I teach students how to code in [matlab, c, and c++.](matlab, c, and c++.)
+- 📝 I teach first year engineering students how to code in matlab, c, and c++.
 
 - 💬 Ask me about **machine learning and algorithms.**
 
