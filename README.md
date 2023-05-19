@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a keylogger to learn more about the cybersecurity field.](https://github.com/sreichman02/keylog-academic)
 
-- 🌱 I’m currently learning **ruby and cybersecurity.**
+- 🌱 I’m currently learning **more about javascript programming and databases.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sreichman02](https://github.com/sreichman02)
 
